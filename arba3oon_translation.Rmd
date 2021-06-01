@@ -1,0 +1,76 @@
+---
+title: 40, by Ahmad al-Shugairi
+author: translation by rsdrahat
+date: 31/05/2021
+output:
+  bookdown::tufte_html_book:
+    split_by: "section"
+---
+
+# How do I read this book?
+
+I want to make clear that I don't consider myself a writer. Writing is a skill and an art - as for myself, I merely have thoughts and experience I wish to convey to people, and I found writing one of the means I can use; don't expect graceful literary style in this book. The style is simple, and the objective for me was conveying my thoughts to the reader in the simplest and clearest fashion possible.
+
+The first six sections are the sinews of the book, and in them are the essential benefits I wanted to convey to the reader. The remaining sections - My Stories, My God, Wisdom of Mankind, My Wisdom - are more akin to varied excerpts that can be read in isolation from the rest of the book. Thus, I reccommend starting with the first six sections; the remaining chapters can be read at different times, or even skipped, if they don't suit you. Thus, when you come to appraise the book generally, try to appraise it on the basis of the six foundational chapters.
+
+In terms of these six chapters, there is no particular sequence to them; so you can begin with the section that interests you. Similarly, there is no linearity in the essays within each section, with the sole exception of the (My Self) section - where reading the essays in sequence is necessary for understanding. I recommend starting by reading the sections in the current sequence, but there is no obligation to do so. What's essential is that you read what touches your heart and your mind, regardless of the order. I also recommend, if a particular essay doesn't suit you, to not skip over the whole section because of it, but rather to move to the essay after it; it may be that within it lies what you are in need of.
+
+I request that you do not deprive yourself of benefit by not reading the book because of a particular section that didn't interest you. I hope that you give each section an opportunity, as the book ranges widely over many subjects and means of deduction, and you should find benefit somewhere. The reason for this request of mine is that some of the negative comments regarding the book made evident that the reader judged the book by a single section without perusing the rest of the chapters.
+
+The book is written in Modern Standard Arabic (al-fuṣḥā), but occassionally there are some colloquial expressions for simplification. I recognise that reading colloquial Arabic irritates some, but I do not see in it harm as long as it simplifies presentation. I am not directing this book at academics or experts in particular, but rather I am directing it at all groups, at any person that wishes to improve him or herself; even if he or she isn't a reader by nature.
+
+# Preface to the 6th edition
+<!---
+	TODO
+--->
+
+# Preface
+
+I decided to go into isolation for fourty days in a secluded location, far from people, far from technological devices and far from the distractions of life.
+
+## Why seclusion?
+
+I have a conviction that the elevation of the spirit and the improvement of one's connection with God come not except by the practice of seclusion - indeed, I know not of any prophet, reformer, philosopher or any person that has a lofty spiritual status that has not practiced seclusion at some stage in their life, even if it was seclusion (i'tikaaf) in the last ten days of Ramadan, which is a form of seclusion.
+
+Every human has what I call _"kalaakee'"_, which are 'knots' within the self, or internal struggles; they are viruses which impede humans from working well (with iHsaan), just as computer viruses impede the computer from working quickly and smoothly.
+
+The computer, when it has a severe, deep-rooted virus that cannot be fixed except by halting daily work on the device and sending it to the "seclusion" of repair; whereupon these viruses are cured from their roots, and sometimes there is a need to reformat or reset the device entirely.
+
+Human seclusion - as I see it - is resetting the viruses of the self and curing them. Indeed, viruses are varied: some may be cured by installing an anti-virus program, and this could cure problems during the normal operation of the device. But the stubborn virus cannot be cured without taking it to a repair shop.
+
+And such are the knots of people, and their sins and their weaknesses; some can be cured while going about daily life, but there are points of weakness, struggles, and ingrained knots, such that they cannot be cured other than by a total reset, and this is where seclusion and pausing for self-reflection come in: to meet that need.
+
+I have tried, in this book, to be as honest as possible. This honesty in discussing some of my struggles in the past and the present are not public pronouncements of sin, nor boasting. Rather, it is honesty to serve as a lesson to the reader, such that perhaps the reader may benefit in their own struggle.
+
+> _When was the last time you sat for 24 hours with yourself, without people and without technology?_
+> If you've never done so, try it once. Consider it a spiritual course.
+
+In the end, if it were not for true models and real examples for one struggling and striving against themself, how could people benefit from the experiences of others and avoid falling into the same mistakes?
+
+Some might say: "Your frankness will give the youth an excuse to make mistakes and sin." I think the exact opposite, that showing my own struggle could help the youth by giving them hope that removing harmful habits is possible, that I am just like them, having faced the same struggles and the same desires that they have faced.
+
+In addition, honesty diminishes the sanctification of individuals and being intimidated by their status, which happens at times between the youth and some celebrities. It matters to me that I put myself in my place as a normal person before people without intimidation or an idealistic, untrue assertion. The fact that I am searching for perfection does not make me perfect. And the fact that excellence (iHsaan) is beloved to me does not make me one who is excellent (muHsin) in every moment of my life. I may become angry, make a mistake, sin, be absent-minded, forget, become weary, or fail; they are all states I undergo at times like every human of flesh and blood.
+
+God, blessed and exalted, does not want from us perfection - perfection belongs to God - rather, God desires from us constant effort **towards** perfection. I summarise in this book my journey across fourty years in this world, a journey of struggle and attempting to rise constantly, in search of inner peace. I don't claim that I've arrived, and the ride is yet long, but it is human experience that you could see yourself in, that you could derive benefit from, and in turn benefit others.
+
+I penned this book during a period of seclusion which lasted 40 days, where I isolated myself from people and technology, and I stayed on a remote island alone, trying to reflect on what had passed, and meditate on what was to come. I ended with fourty thoughts for each of the points below:
+
+> Own technology, don't let it own you.
+
+* 40 days with my self.
+* 40 days with my Qur'an.
+* 40 days with my life.
+* 40 days with my improvements.
+* 40 days with my balancing.
+* 40 days with my books.
+* 40 days with my stories
+* 40 days with my god.
+* 40 days with the wisdoms of mankind.
+* 40 days with my memories.
+* 40 days with my wisdoms.
+
+
+(Signed by Ahmad al-Shugairi)
+
+## What is seclusion?
+
